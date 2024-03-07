@@ -1,0 +1,13 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "AdamLJohnson",
+  "classifications": [ "Common", "Console" ],
+  "identity": "AdamsTemplates.ConsoleWithHost",
+  "name": "Adams templates: A simple Console App with a host",
+  "shortName": "consolewithhost",
+  "sourceName": "ConsoleWithHost",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  }
+}
